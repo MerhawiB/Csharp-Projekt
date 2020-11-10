@@ -1,2 +1,1 @@
-# RSSProjektInformatik
-School project C#
+
